@@ -126,18 +126,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for LED_Controller\BOM\Bill of Materials-LED_Controller.htm
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for LED_Controller\SimpleBOM\LED_Controller.BOM
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for LED_Controller\SimpleBOM\LED_Controller.CSV
-DItemRevisionGUID=
-
 [PCBConfiguration1]
 ReleaseItemId=
 CurrentRevision=
