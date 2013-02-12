@@ -110,6 +110,34 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[Document6]
+DocumentPath=LED_Controller.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for LED_Controller\BOM\Bill of Materials-LED_Controller.htm
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for LED_Controller\SimpleBOM\LED_Controller.BOM
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for LED_Controller\SimpleBOM\LED_Controller.CSV
+DItemRevisionGUID=
+
 [PCBConfiguration1]
 ReleaseItemId=
 CurrentRevision=
@@ -122,7 +150,7 @@ AutoOpenFile=0
 AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
-ProjectMode=0
+ProjectMode=-1
 ZoomPrecision=50
 AddNetsInformation=-1
 AddNetPins=-1
@@ -137,14 +165,14 @@ SCH_ShowParameter=-1
 SCH_ShowProbes=-1
 SCH_ShowBlankets=-1
 SCH_ExpandLogicalToPhysical=-1
-SCH_VariantName=
+SCH_VariantName=[No Variations]
 SCH_ExpandComponentDesignators=-1
 SCH_ExpandNetlabels=0
 SCH_ExpandPorts=0
 SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
-SCH_HasExpandLogicalToPhysicalSheets=0
-SaveSettingsToOutJob=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
 
 [OutputGroup1]
 Name=Netlist Outputs
