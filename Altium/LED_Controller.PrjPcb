@@ -32,7 +32,7 @@ DItemRevisionGUID=
 
 [Document1]
 DocumentPath=LED_Controller.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -48,7 +48,7 @@ GenerateClassCluster=0
 
 [Document2]
 DocumentPath=LED_Controller_Connectors.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -64,7 +64,7 @@ GenerateClassCluster=0
 
 [Document3]
 DocumentPath=LED_Controller_Wireless.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -101,7 +101,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -997,7 +997,7 @@ L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
-SortOrder=3
+SortOrder=1
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
